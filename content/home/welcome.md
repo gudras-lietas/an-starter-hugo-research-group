@@ -7,8 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  AN Solution
-  viedo ierīču izstrāde pēc individuāla pasūtījuma.
+  Viedo ierīču izstrāde
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +19,8 @@ design:
 
 <br>
 
-Mēs varam ieslēgt jūsu elektroauto kad elektrības biržas cena ir visszemākā.
+Pārvaldi savas ierīcas, kad elektrības biržas cena tīklā ir zemākā.
+
+**Ietaupi uz:**
+- lādējot savu elektro auto no tīkla.
+- apkures, ieslēzot siltumsīkni vai boileri izdevīgā laikā. 

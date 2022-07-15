@@ -10,7 +10,7 @@ baseURL: 'https://ansolution.lv/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: lv
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

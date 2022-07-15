@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Artūrs
+title: Nils
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: tehniskais atbalsts
+role: valdes loceklis
 
 # Organizations/Affiliations
 organizations:
@@ -17,14 +17,13 @@ organizations:
 bio: Inženiris
 
 interests:
-  - ģimene
-  - IOT (interneta lietas)
+  - 
 
 education:
   courses:
-    - course: Transporta elektronika un telemātika
-      institution: Rīgas tehniskā universitāte
-      year: 2014
+    - course: 
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -33,7 +32,6 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:arturs.paulauskis@gmail.com'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -51,5 +49,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - admin
+  
+weight: 10
 ---
 
