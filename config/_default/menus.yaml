@@ -7,9 +7,9 @@ main:
   # - name: Tour
   #   url: tour
   #   weight: 10
-  - name: Jaunumi
-    url: post
-    weight: 20
+  # - name: Jaunumi
+  #   url: post
+  #   weight: 20
   - name: Komanda
     url: people
     weight: 30
