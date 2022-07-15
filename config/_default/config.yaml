@@ -4,13 +4,13 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: AN Solution # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://ansolution.lv/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: lv
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
