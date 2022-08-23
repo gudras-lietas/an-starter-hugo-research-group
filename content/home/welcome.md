@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Viedo ierīču izstrāde
+  Nord Pool biržas cenas Jūsu ierīcēs.
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -19,8 +19,9 @@ design:
 
 <br>
 
-Pārvaldi savas ierīcas, kad elektrības biržas cena tīklā ir zemākā.
+**Ietaupi, lietojot elektrību stundās, kad biržas cena ir zemākā:**
+- Jūsu ierīces automātiski ieslēgsies un izslēgsies lētākajās elektības stundās, piemēram apkures siltumsuknis vai boileris.
+- lādējot savu elektrisko auto, skūteri vai velosipēdu.
 
-**Ietaupi uz:**
-- lādējot savu elektro auto no tīkla.
-- apkures, ieslēzot siltumsīkni vai boileri izdevīgā laikā. 
+**HES īpašniekiem:**
+- Pilnibā automatizē HES darbību, ražojot elektrību tikai dārgākajās elektrības stundās.

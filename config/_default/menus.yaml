@@ -10,9 +10,9 @@ main:
   # - name: Jaunumi
   #   url: post
   #   weight: 20
-  - name: Komanda
-    url: people
-    weight: 30
+  # - name: Komanda
+  #   url: people
+  #   weight: 30
   # - name: Events
   #   url: event
   #   weight: 40
